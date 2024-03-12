@@ -1,0 +1,5 @@
+fastapi
+pymongo
+PyJWT
+uvicorn
+mangum
